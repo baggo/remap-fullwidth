@@ -1,7 +1,7 @@
 # remap-fullwidth
 > ＡＥＳＴＨＥＴＩＣ character map
 
-A map of 95 full-width characters designed for use with [`baggo/remap`](https://github.com/baggo/remap-fullwidth).
+A map of 95 full-width characters designed for use with [`baggo/remap`](https://github.com/baggo/remap).
 
 ```javascript
 const remap = require('remap')
